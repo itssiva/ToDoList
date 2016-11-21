@@ -1,0 +1,23 @@
+# Node modules
+node_modules
+
+# built files
+dist
+
+# Logs
+logs
+*.log
+
+# mac
+.DS_Store
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+#buffer files
+*.swp
+
+#.ide
+.idea
